@@ -1,3 +1,4 @@
 # hello-Again
 just another repository
-。。。。不
+
+I make somthing different from beform to learn this github
